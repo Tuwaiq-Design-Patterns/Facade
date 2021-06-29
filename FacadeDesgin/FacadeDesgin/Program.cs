@@ -22,7 +22,7 @@ namespace FacadeDesgin
             result += this._Square.drawSquare();
             result += "Drawing subsystems 2:\n";
             result += this._Cirecle.operationN();
-            result += this._Square.operationZ();
+            result += this._Square.drawHalfSquare();
             return result;
         }
     }
@@ -35,7 +35,7 @@ namespace FacadeDesgin
             return "Cirecle!\n";
         }
 
-        public string operationN()
+        public string drawHalfCirecle()
         {
             return "Half Cirecle!\n";
         }
@@ -48,7 +48,7 @@ namespace FacadeDesgin
             return "Square!\n";
         }
 
-        public string operationZ()
+        public string drawHalfSquare()
         {
             return "Half Square!\n";
         }
