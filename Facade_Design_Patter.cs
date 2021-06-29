@@ -26,9 +26,9 @@ namespace Facade_Design_Patter
         }
     }
 
-    public class Order
+    class Program
     {
-        public void PlaceOrder()
+        static void Main(string[] args)
         {
             Console.WriteLine("Place Order Started");
             Product product = new Product();
@@ -38,15 +38,6 @@ namespace Facade_Design_Patter
             Invoice invoice = new Invoice();
             invoice.Sendinvoice();
             Console.WriteLine("Order Placed");
-        }
-    }
-
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            Order o = new Order();
-            o.PlaceOrder();
         }
     }
 }
