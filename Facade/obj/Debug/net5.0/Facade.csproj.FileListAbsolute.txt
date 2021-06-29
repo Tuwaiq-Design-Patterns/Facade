@@ -1,0 +1,15 @@
+/Users/maryam/Documents/Bootcamp/design-pattren-projects/Facade/Facade/bin/Debug/net5.0/Facade.deps.json
+/Users/maryam/Documents/Bootcamp/design-pattren-projects/Facade/Facade/bin/Debug/net5.0/Facade.runtimeconfig.json
+/Users/maryam/Documents/Bootcamp/design-pattren-projects/Facade/Facade/bin/Debug/net5.0/Facade.runtimeconfig.dev.json
+/Users/maryam/Documents/Bootcamp/design-pattren-projects/Facade/Facade/bin/Debug/net5.0/Facade.dll
+/Users/maryam/Documents/Bootcamp/design-pattren-projects/Facade/Facade/bin/Debug/net5.0/ref/Facade.dll
+/Users/maryam/Documents/Bootcamp/design-pattren-projects/Facade/Facade/bin/Debug/net5.0/Facade.pdb
+/Users/maryam/Documents/Bootcamp/design-pattren-projects/Facade/Facade/obj/Debug/net5.0/Facade.csprojAssemblyReference.cache
+/Users/maryam/Documents/Bootcamp/design-pattren-projects/Facade/Facade/obj/Debug/net5.0/Facade.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maryam/Documents/Bootcamp/design-pattren-projects/Facade/Facade/obj/Debug/net5.0/Facade.AssemblyInfoInputs.cache
+/Users/maryam/Documents/Bootcamp/design-pattren-projects/Facade/Facade/obj/Debug/net5.0/Facade.AssemblyInfo.cs
+/Users/maryam/Documents/Bootcamp/design-pattren-projects/Facade/Facade/obj/Debug/net5.0/Facade.csproj.CoreCompileInputs.cache
+/Users/maryam/Documents/Bootcamp/design-pattren-projects/Facade/Facade/obj/Debug/net5.0/Facade.dll
+/Users/maryam/Documents/Bootcamp/design-pattren-projects/Facade/Facade/obj/Debug/net5.0/ref/Facade.dll
+/Users/maryam/Documents/Bootcamp/design-pattren-projects/Facade/Facade/obj/Debug/net5.0/Facade.pdb
+/Users/maryam/Documents/Bootcamp/design-pattren-projects/Facade/Facade/obj/Debug/net5.0/Facade.genruntimeconfig.cache
