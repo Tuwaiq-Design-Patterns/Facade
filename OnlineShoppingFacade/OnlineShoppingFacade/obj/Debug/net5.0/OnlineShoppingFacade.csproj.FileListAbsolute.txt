@@ -1,0 +1,16 @@
+C:\Users\Reema\source\repos\OnlineShoppingFacade\OnlineShoppingFacade\bin\Debug\net5.0\OnlineShoppingFacade.exe
+C:\Users\Reema\source\repos\OnlineShoppingFacade\OnlineShoppingFacade\bin\Debug\net5.0\OnlineShoppingFacade.deps.json
+C:\Users\Reema\source\repos\OnlineShoppingFacade\OnlineShoppingFacade\bin\Debug\net5.0\OnlineShoppingFacade.runtimeconfig.json
+C:\Users\Reema\source\repos\OnlineShoppingFacade\OnlineShoppingFacade\bin\Debug\net5.0\OnlineShoppingFacade.runtimeconfig.dev.json
+C:\Users\Reema\source\repos\OnlineShoppingFacade\OnlineShoppingFacade\bin\Debug\net5.0\OnlineShoppingFacade.dll
+C:\Users\Reema\source\repos\OnlineShoppingFacade\OnlineShoppingFacade\bin\Debug\net5.0\ref\OnlineShoppingFacade.dll
+C:\Users\Reema\source\repos\OnlineShoppingFacade\OnlineShoppingFacade\bin\Debug\net5.0\OnlineShoppingFacade.pdb
+C:\Users\Reema\source\repos\OnlineShoppingFacade\OnlineShoppingFacade\obj\Debug\net5.0\OnlineShoppingFacade.csprojAssemblyReference.cache
+C:\Users\Reema\source\repos\OnlineShoppingFacade\OnlineShoppingFacade\obj\Debug\net5.0\OnlineShoppingFacade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Reema\source\repos\OnlineShoppingFacade\OnlineShoppingFacade\obj\Debug\net5.0\OnlineShoppingFacade.AssemblyInfoInputs.cache
+C:\Users\Reema\source\repos\OnlineShoppingFacade\OnlineShoppingFacade\obj\Debug\net5.0\OnlineShoppingFacade.AssemblyInfo.cs
+C:\Users\Reema\source\repos\OnlineShoppingFacade\OnlineShoppingFacade\obj\Debug\net5.0\OnlineShoppingFacade.csproj.CoreCompileInputs.cache
+C:\Users\Reema\source\repos\OnlineShoppingFacade\OnlineShoppingFacade\obj\Debug\net5.0\OnlineShoppingFacade.dll
+C:\Users\Reema\source\repos\OnlineShoppingFacade\OnlineShoppingFacade\obj\Debug\net5.0\ref\OnlineShoppingFacade.dll
+C:\Users\Reema\source\repos\OnlineShoppingFacade\OnlineShoppingFacade\obj\Debug\net5.0\OnlineShoppingFacade.pdb
+C:\Users\Reema\source\repos\OnlineShoppingFacade\OnlineShoppingFacade\obj\Debug\net5.0\OnlineShoppingFacade.genruntimeconfig.cache
