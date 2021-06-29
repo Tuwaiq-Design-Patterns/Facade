@@ -1,0 +1,16 @@
+C:\Users\Adel_Kalu\source\repos\Facade1\Facade1\bin\Debug\net5.0\Facade1.exe
+C:\Users\Adel_Kalu\source\repos\Facade1\Facade1\bin\Debug\net5.0\Facade1.deps.json
+C:\Users\Adel_Kalu\source\repos\Facade1\Facade1\bin\Debug\net5.0\Facade1.runtimeconfig.json
+C:\Users\Adel_Kalu\source\repos\Facade1\Facade1\bin\Debug\net5.0\Facade1.runtimeconfig.dev.json
+C:\Users\Adel_Kalu\source\repos\Facade1\Facade1\bin\Debug\net5.0\Facade1.dll
+C:\Users\Adel_Kalu\source\repos\Facade1\Facade1\bin\Debug\net5.0\ref\Facade1.dll
+C:\Users\Adel_Kalu\source\repos\Facade1\Facade1\bin\Debug\net5.0\Facade1.pdb
+C:\Users\Adel_Kalu\source\repos\Facade1\Facade1\obj\Debug\net5.0\Facade1.csproj.AssemblyReference.cache
+C:\Users\Adel_Kalu\source\repos\Facade1\Facade1\obj\Debug\net5.0\Facade1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adel_Kalu\source\repos\Facade1\Facade1\obj\Debug\net5.0\Facade1.AssemblyInfoInputs.cache
+C:\Users\Adel_Kalu\source\repos\Facade1\Facade1\obj\Debug\net5.0\Facade1.AssemblyInfo.cs
+C:\Users\Adel_Kalu\source\repos\Facade1\Facade1\obj\Debug\net5.0\Facade1.csproj.CoreCompileInputs.cache
+C:\Users\Adel_Kalu\source\repos\Facade1\Facade1\obj\Debug\net5.0\Facade1.dll
+C:\Users\Adel_Kalu\source\repos\Facade1\Facade1\obj\Debug\net5.0\ref\Facade1.dll
+C:\Users\Adel_Kalu\source\repos\Facade1\Facade1\obj\Debug\net5.0\Facade1.pdb
+C:\Users\Adel_Kalu\source\repos\Facade1\Facade1\obj\Debug\net5.0\Facade1.genruntimeconfig.cache
