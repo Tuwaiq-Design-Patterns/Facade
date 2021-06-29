@@ -1,0 +1,16 @@
+C:\Users\Norah\source\repos\FacadeDesignPattren\FacadeDesignPattren\obj\Debug\net5.0\FacadeDesignPattren.csprojAssemblyReference.cache
+C:\Users\Norah\source\repos\FacadeDesignPattren\FacadeDesignPattren\obj\Debug\net5.0\FacadeDesignPattren.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Norah\source\repos\FacadeDesignPattren\FacadeDesignPattren\obj\Debug\net5.0\FacadeDesignPattren.AssemblyInfoInputs.cache
+C:\Users\Norah\source\repos\FacadeDesignPattren\FacadeDesignPattren\obj\Debug\net5.0\FacadeDesignPattren.AssemblyInfo.cs
+C:\Users\Norah\source\repos\FacadeDesignPattren\FacadeDesignPattren\obj\Debug\net5.0\FacadeDesignPattren.csproj.CoreCompileInputs.cache
+C:\Users\Norah\source\repos\FacadeDesignPattren\FacadeDesignPattren\bin\Debug\net5.0\FacadeDesignPattren.exe
+C:\Users\Norah\source\repos\FacadeDesignPattren\FacadeDesignPattren\bin\Debug\net5.0\FacadeDesignPattren.deps.json
+C:\Users\Norah\source\repos\FacadeDesignPattren\FacadeDesignPattren\bin\Debug\net5.0\FacadeDesignPattren.runtimeconfig.json
+C:\Users\Norah\source\repos\FacadeDesignPattren\FacadeDesignPattren\bin\Debug\net5.0\FacadeDesignPattren.runtimeconfig.dev.json
+C:\Users\Norah\source\repos\FacadeDesignPattren\FacadeDesignPattren\bin\Debug\net5.0\FacadeDesignPattren.dll
+C:\Users\Norah\source\repos\FacadeDesignPattren\FacadeDesignPattren\bin\Debug\net5.0\ref\FacadeDesignPattren.dll
+C:\Users\Norah\source\repos\FacadeDesignPattren\FacadeDesignPattren\bin\Debug\net5.0\FacadeDesignPattren.pdb
+C:\Users\Norah\source\repos\FacadeDesignPattren\FacadeDesignPattren\obj\Debug\net5.0\FacadeDesignPattren.dll
+C:\Users\Norah\source\repos\FacadeDesignPattren\FacadeDesignPattren\obj\Debug\net5.0\ref\FacadeDesignPattren.dll
+C:\Users\Norah\source\repos\FacadeDesignPattren\FacadeDesignPattren\obj\Debug\net5.0\FacadeDesignPattren.pdb
+C:\Users\Norah\source\repos\FacadeDesignPattren\FacadeDesignPattren\obj\Debug\net5.0\FacadeDesignPattren.genruntimeconfig.cache
