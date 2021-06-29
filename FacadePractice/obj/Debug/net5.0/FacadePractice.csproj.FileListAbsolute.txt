@@ -1,0 +1,16 @@
+D:\Tuwaiq\DesignPatterns\practice\FacadePractice\FacadePractice\obj\Debug\net5.0\FacadePractice.csprojAssemblyReference.cache
+D:\Tuwaiq\DesignPatterns\practice\FacadePractice\FacadePractice\obj\Debug\net5.0\FacadePractice.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tuwaiq\DesignPatterns\practice\FacadePractice\FacadePractice\obj\Debug\net5.0\FacadePractice.AssemblyInfoInputs.cache
+D:\Tuwaiq\DesignPatterns\practice\FacadePractice\FacadePractice\obj\Debug\net5.0\FacadePractice.AssemblyInfo.cs
+D:\Tuwaiq\DesignPatterns\practice\FacadePractice\FacadePractice\obj\Debug\net5.0\FacadePractice.csproj.CoreCompileInputs.cache
+D:\Tuwaiq\DesignPatterns\practice\FacadePractice\FacadePractice\bin\Debug\net5.0\FacadePractice.exe
+D:\Tuwaiq\DesignPatterns\practice\FacadePractice\FacadePractice\bin\Debug\net5.0\FacadePractice.deps.json
+D:\Tuwaiq\DesignPatterns\practice\FacadePractice\FacadePractice\bin\Debug\net5.0\FacadePractice.runtimeconfig.json
+D:\Tuwaiq\DesignPatterns\practice\FacadePractice\FacadePractice\bin\Debug\net5.0\FacadePractice.runtimeconfig.dev.json
+D:\Tuwaiq\DesignPatterns\practice\FacadePractice\FacadePractice\bin\Debug\net5.0\FacadePractice.dll
+D:\Tuwaiq\DesignPatterns\practice\FacadePractice\FacadePractice\bin\Debug\net5.0\ref\FacadePractice.dll
+D:\Tuwaiq\DesignPatterns\practice\FacadePractice\FacadePractice\bin\Debug\net5.0\FacadePractice.pdb
+D:\Tuwaiq\DesignPatterns\practice\FacadePractice\FacadePractice\obj\Debug\net5.0\FacadePractice.dll
+D:\Tuwaiq\DesignPatterns\practice\FacadePractice\FacadePractice\obj\Debug\net5.0\ref\FacadePractice.dll
+D:\Tuwaiq\DesignPatterns\practice\FacadePractice\FacadePractice\obj\Debug\net5.0\FacadePractice.pdb
+D:\Tuwaiq\DesignPatterns\practice\FacadePractice\FacadePractice\obj\Debug\net5.0\FacadePractice.genruntimeconfig.cache
