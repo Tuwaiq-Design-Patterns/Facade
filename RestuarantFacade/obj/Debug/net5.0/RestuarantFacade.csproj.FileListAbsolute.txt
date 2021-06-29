@@ -1,0 +1,16 @@
+C:\Users\b0c0a\source\repos\RestuarantFacade\RestuarantFacade\bin\Debug\net5.0\RestuarantFacade.exe
+C:\Users\b0c0a\source\repos\RestuarantFacade\RestuarantFacade\bin\Debug\net5.0\RestuarantFacade.deps.json
+C:\Users\b0c0a\source\repos\RestuarantFacade\RestuarantFacade\bin\Debug\net5.0\RestuarantFacade.runtimeconfig.json
+C:\Users\b0c0a\source\repos\RestuarantFacade\RestuarantFacade\bin\Debug\net5.0\RestuarantFacade.runtimeconfig.dev.json
+C:\Users\b0c0a\source\repos\RestuarantFacade\RestuarantFacade\bin\Debug\net5.0\RestuarantFacade.dll
+C:\Users\b0c0a\source\repos\RestuarantFacade\RestuarantFacade\bin\Debug\net5.0\ref\RestuarantFacade.dll
+C:\Users\b0c0a\source\repos\RestuarantFacade\RestuarantFacade\bin\Debug\net5.0\RestuarantFacade.pdb
+C:\Users\b0c0a\source\repos\RestuarantFacade\RestuarantFacade\obj\Debug\net5.0\RestuarantFacade.csprojAssemblyReference.cache
+C:\Users\b0c0a\source\repos\RestuarantFacade\RestuarantFacade\obj\Debug\net5.0\RestuarantFacade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\b0c0a\source\repos\RestuarantFacade\RestuarantFacade\obj\Debug\net5.0\RestuarantFacade.AssemblyInfoInputs.cache
+C:\Users\b0c0a\source\repos\RestuarantFacade\RestuarantFacade\obj\Debug\net5.0\RestuarantFacade.AssemblyInfo.cs
+C:\Users\b0c0a\source\repos\RestuarantFacade\RestuarantFacade\obj\Debug\net5.0\RestuarantFacade.csproj.CoreCompileInputs.cache
+C:\Users\b0c0a\source\repos\RestuarantFacade\RestuarantFacade\obj\Debug\net5.0\RestuarantFacade.dll
+C:\Users\b0c0a\source\repos\RestuarantFacade\RestuarantFacade\obj\Debug\net5.0\ref\RestuarantFacade.dll
+C:\Users\b0c0a\source\repos\RestuarantFacade\RestuarantFacade\obj\Debug\net5.0\RestuarantFacade.pdb
+C:\Users\b0c0a\source\repos\RestuarantFacade\RestuarantFacade\obj\Debug\net5.0\RestuarantFacade.genruntimeconfig.cache
