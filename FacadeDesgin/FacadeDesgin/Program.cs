@@ -21,7 +21,7 @@ namespace FacadeDesgin
             result += this._Cirecle.drawCirecle();
             result += this._Square.drawSquare();
             result += "Drawing subsystems 2:\n";
-            result += this._Cirecle.operationN();
+            result += this._Cirecle.drawHalfSCirecle();
             result += this._Square.drawHalfSquare();
             return result;
         }
