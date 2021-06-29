@@ -1,0 +1,15 @@
+/Users/hanans/Desktop/t/lessons/week10/facade-design-pattern/facade-design-pattern/bin/Debug/net5.0/facade-design-pattern.deps.json
+/Users/hanans/Desktop/t/lessons/week10/facade-design-pattern/facade-design-pattern/bin/Debug/net5.0/facade-design-pattern.runtimeconfig.json
+/Users/hanans/Desktop/t/lessons/week10/facade-design-pattern/facade-design-pattern/bin/Debug/net5.0/facade-design-pattern.runtimeconfig.dev.json
+/Users/hanans/Desktop/t/lessons/week10/facade-design-pattern/facade-design-pattern/bin/Debug/net5.0/facade-design-pattern.dll
+/Users/hanans/Desktop/t/lessons/week10/facade-design-pattern/facade-design-pattern/bin/Debug/net5.0/ref/facade-design-pattern.dll
+/Users/hanans/Desktop/t/lessons/week10/facade-design-pattern/facade-design-pattern/bin/Debug/net5.0/facade-design-pattern.pdb
+/Users/hanans/Desktop/t/lessons/week10/facade-design-pattern/facade-design-pattern/obj/Debug/net5.0/facade-design-pattern.csproj.AssemblyReference.cache
+/Users/hanans/Desktop/t/lessons/week10/facade-design-pattern/facade-design-pattern/obj/Debug/net5.0/facade-design-pattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hanans/Desktop/t/lessons/week10/facade-design-pattern/facade-design-pattern/obj/Debug/net5.0/facade-design-pattern.AssemblyInfoInputs.cache
+/Users/hanans/Desktop/t/lessons/week10/facade-design-pattern/facade-design-pattern/obj/Debug/net5.0/facade-design-pattern.AssemblyInfo.cs
+/Users/hanans/Desktop/t/lessons/week10/facade-design-pattern/facade-design-pattern/obj/Debug/net5.0/facade-design-pattern.csproj.CoreCompileInputs.cache
+/Users/hanans/Desktop/t/lessons/week10/facade-design-pattern/facade-design-pattern/obj/Debug/net5.0/facade-design-pattern.dll
+/Users/hanans/Desktop/t/lessons/week10/facade-design-pattern/facade-design-pattern/obj/Debug/net5.0/ref/facade-design-pattern.dll
+/Users/hanans/Desktop/t/lessons/week10/facade-design-pattern/facade-design-pattern/obj/Debug/net5.0/facade-design-pattern.pdb
+/Users/hanans/Desktop/t/lessons/week10/facade-design-pattern/facade-design-pattern/obj/Debug/net5.0/facade-design-pattern.genruntimeconfig.cache
