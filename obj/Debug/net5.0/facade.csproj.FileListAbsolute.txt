@@ -1,0 +1,16 @@
+D:\Tuwaiq\ClassDesignPattern\facade\bin\Debug\net5.0\facade.exe
+D:\Tuwaiq\ClassDesignPattern\facade\bin\Debug\net5.0\facade.deps.json
+D:\Tuwaiq\ClassDesignPattern\facade\bin\Debug\net5.0\facade.runtimeconfig.json
+D:\Tuwaiq\ClassDesignPattern\facade\bin\Debug\net5.0\facade.runtimeconfig.dev.json
+D:\Tuwaiq\ClassDesignPattern\facade\bin\Debug\net5.0\facade.dll
+D:\Tuwaiq\ClassDesignPattern\facade\bin\Debug\net5.0\ref\facade.dll
+D:\Tuwaiq\ClassDesignPattern\facade\bin\Debug\net5.0\facade.pdb
+D:\Tuwaiq\ClassDesignPattern\facade\obj\Debug\net5.0\facade.csprojAssemblyReference.cache
+D:\Tuwaiq\ClassDesignPattern\facade\obj\Debug\net5.0\facade.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tuwaiq\ClassDesignPattern\facade\obj\Debug\net5.0\facade.AssemblyInfoInputs.cache
+D:\Tuwaiq\ClassDesignPattern\facade\obj\Debug\net5.0\facade.AssemblyInfo.cs
+D:\Tuwaiq\ClassDesignPattern\facade\obj\Debug\net5.0\facade.csproj.CoreCompileInputs.cache
+D:\Tuwaiq\ClassDesignPattern\facade\obj\Debug\net5.0\facade.dll
+D:\Tuwaiq\ClassDesignPattern\facade\obj\Debug\net5.0\ref\facade.dll
+D:\Tuwaiq\ClassDesignPattern\facade\obj\Debug\net5.0\facade.pdb
+D:\Tuwaiq\ClassDesignPattern\facade\obj\Debug\net5.0\facade.genruntimeconfig.cache
