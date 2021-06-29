@@ -1,0 +1,16 @@
+C:\Users\taef_\source\repos\Faced\Faced\bin\Debug\net5.0\Faced.exe
+C:\Users\taef_\source\repos\Faced\Faced\bin\Debug\net5.0\Faced.deps.json
+C:\Users\taef_\source\repos\Faced\Faced\bin\Debug\net5.0\Faced.runtimeconfig.json
+C:\Users\taef_\source\repos\Faced\Faced\bin\Debug\net5.0\Faced.runtimeconfig.dev.json
+C:\Users\taef_\source\repos\Faced\Faced\bin\Debug\net5.0\Faced.dll
+C:\Users\taef_\source\repos\Faced\Faced\bin\Debug\net5.0\ref\Faced.dll
+C:\Users\taef_\source\repos\Faced\Faced\bin\Debug\net5.0\Faced.pdb
+C:\Users\taef_\source\repos\Faced\Faced\obj\Debug\net5.0\Faced.csprojAssemblyReference.cache
+C:\Users\taef_\source\repos\Faced\Faced\obj\Debug\net5.0\Faced.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\taef_\source\repos\Faced\Faced\obj\Debug\net5.0\Faced.AssemblyInfoInputs.cache
+C:\Users\taef_\source\repos\Faced\Faced\obj\Debug\net5.0\Faced.AssemblyInfo.cs
+C:\Users\taef_\source\repos\Faced\Faced\obj\Debug\net5.0\Faced.csproj.CoreCompileInputs.cache
+C:\Users\taef_\source\repos\Faced\Faced\obj\Debug\net5.0\Faced.dll
+C:\Users\taef_\source\repos\Faced\Faced\obj\Debug\net5.0\ref\Faced.dll
+C:\Users\taef_\source\repos\Faced\Faced\obj\Debug\net5.0\Faced.pdb
+C:\Users\taef_\source\repos\Faced\Faced\obj\Debug\net5.0\Faced.genruntimeconfig.cache
