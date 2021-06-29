@@ -8,9 +8,9 @@ namespace Shape
     {
         public class ShapeMaker
         {
-            private Shape circle;
-            private Shape rectangle;
-            private Shape square;
+            public Shape circle;
+            public Shape rectangle;
+            public Shape square;
 
             public ShapeMaker()
             {
