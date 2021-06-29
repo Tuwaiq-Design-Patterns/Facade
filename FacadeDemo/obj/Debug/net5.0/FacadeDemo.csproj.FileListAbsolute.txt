@@ -1,0 +1,16 @@
+C:\Users\IBRA\RiderProjects\FacadeDemo\FacadeDemo\bin\Debug\net5.0\FacadeDemo.exe
+C:\Users\IBRA\RiderProjects\FacadeDemo\FacadeDemo\bin\Debug\net5.0\FacadeDemo.deps.json
+C:\Users\IBRA\RiderProjects\FacadeDemo\FacadeDemo\bin\Debug\net5.0\FacadeDemo.runtimeconfig.json
+C:\Users\IBRA\RiderProjects\FacadeDemo\FacadeDemo\bin\Debug\net5.0\FacadeDemo.runtimeconfig.dev.json
+C:\Users\IBRA\RiderProjects\FacadeDemo\FacadeDemo\bin\Debug\net5.0\FacadeDemo.dll
+C:\Users\IBRA\RiderProjects\FacadeDemo\FacadeDemo\bin\Debug\net5.0\ref\FacadeDemo.dll
+C:\Users\IBRA\RiderProjects\FacadeDemo\FacadeDemo\bin\Debug\net5.0\FacadeDemo.pdb
+C:\Users\IBRA\RiderProjects\FacadeDemo\FacadeDemo\obj\Debug\net5.0\FacadeDemo.csproj.AssemblyReference.cache
+C:\Users\IBRA\RiderProjects\FacadeDemo\FacadeDemo\obj\Debug\net5.0\FacadeDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IBRA\RiderProjects\FacadeDemo\FacadeDemo\obj\Debug\net5.0\FacadeDemo.AssemblyInfoInputs.cache
+C:\Users\IBRA\RiderProjects\FacadeDemo\FacadeDemo\obj\Debug\net5.0\FacadeDemo.AssemblyInfo.cs
+C:\Users\IBRA\RiderProjects\FacadeDemo\FacadeDemo\obj\Debug\net5.0\FacadeDemo.csproj.CoreCompileInputs.cache
+C:\Users\IBRA\RiderProjects\FacadeDemo\FacadeDemo\obj\Debug\net5.0\FacadeDemo.dll
+C:\Users\IBRA\RiderProjects\FacadeDemo\FacadeDemo\obj\Debug\net5.0\ref\FacadeDemo.dll
+C:\Users\IBRA\RiderProjects\FacadeDemo\FacadeDemo\obj\Debug\net5.0\FacadeDemo.pdb
+C:\Users\IBRA\RiderProjects\FacadeDemo\FacadeDemo\obj\Debug\net5.0\FacadeDemo.genruntimeconfig.cache
