@@ -39,12 +39,13 @@ namespace FacadePattren
         }
     }
 
+
     class Program
     {
 
         static void Main(string[] args)
         {
-            Menu menu = new Menu(); 
+            Menu menu = new Menu();
             try
             {
                 menu.mainMenu();

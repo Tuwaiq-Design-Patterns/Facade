@@ -1,19 +1,22 @@
 ﻿<Properties StartupConfiguration="{5B4CE290-4F5F-416E-959D-CE39D5A61E51}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="FacadePattren/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="FacadePattren/Menu.cs">
     <Files>
-      <File FileName="FacadePattren/Program.cs" Line="41" Column="1" />
+      <File FileName="FacadePattren/Program.cs" Line="45" Column="1" />
       <File FileName="FacadePattren/ICPU.cs" Line="6" Column="26" />
       <File FileName="FacadePattren/CPU.cs" Line="12" Column="9" />
       <File FileName="FacadePattren/Monitor.cs" Line="15" Column="6" />
       <File FileName="FacadePattren/Keyboard.cs" Line="9" Column="30" />
       <File FileName="FacadePattren/Memory.cs" Line="9" Column="6" />
       <File FileName="FacadePattren/HardDrive.cs" Line="11" Column="6" />
+      <File FileName="FacadePattren/Menu.cs" Line="83" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="FacadePattren" expanded="True">
-            <Node name="FacadePattren" expanded="True" />
+            <Node name="FacadePattren" expanded="True">
+              <Node name="Menu.cs" selected="True" />
+            </Node>
           </Node>
         </State>
       </Pad>
