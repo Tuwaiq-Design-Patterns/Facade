@@ -1,0 +1,12 @@
+/Users/arwawanla/Projects/design pattern/Facade_DP/bin/Debug/netcoreapp3.1/Facade_DP.deps.json
+/Users/arwawanla/Projects/design pattern/Facade_DP/bin/Debug/netcoreapp3.1/Facade_DP.runtimeconfig.json
+/Users/arwawanla/Projects/design pattern/Facade_DP/bin/Debug/netcoreapp3.1/Facade_DP.runtimeconfig.dev.json
+/Users/arwawanla/Projects/design pattern/Facade_DP/bin/Debug/netcoreapp3.1/Facade_DP.dll
+/Users/arwawanla/Projects/design pattern/Facade_DP/bin/Debug/netcoreapp3.1/Facade_DP.pdb
+/Users/arwawanla/Projects/design pattern/Facade_DP/obj/Debug/netcoreapp3.1/Facade_DP.csprojAssemblyReference.cache
+/Users/arwawanla/Projects/design pattern/Facade_DP/obj/Debug/netcoreapp3.1/Facade_DP.AssemblyInfoInputs.cache
+/Users/arwawanla/Projects/design pattern/Facade_DP/obj/Debug/netcoreapp3.1/Facade_DP.AssemblyInfo.cs
+/Users/arwawanla/Projects/design pattern/Facade_DP/obj/Debug/netcoreapp3.1/Facade_DP.csproj.CoreCompileInputs.cache
+/Users/arwawanla/Projects/design pattern/Facade_DP/obj/Debug/netcoreapp3.1/Facade_DP.dll
+/Users/arwawanla/Projects/design pattern/Facade_DP/obj/Debug/netcoreapp3.1/Facade_DP.pdb
+/Users/arwawanla/Projects/design pattern/Facade_DP/obj/Debug/netcoreapp3.1/Facade_DP.genruntimeconfig.cache
