@@ -1,0 +1,16 @@
+C:\Users\F-LOW\OneDrive\Desktop\Project Bootcamp\Design Patterns\FacadeDesgin\FacadeDesgin\bin\Debug\net5.0\FacadeDesgin.exe
+C:\Users\F-LOW\OneDrive\Desktop\Project Bootcamp\Design Patterns\FacadeDesgin\FacadeDesgin\bin\Debug\net5.0\FacadeDesgin.deps.json
+C:\Users\F-LOW\OneDrive\Desktop\Project Bootcamp\Design Patterns\FacadeDesgin\FacadeDesgin\bin\Debug\net5.0\FacadeDesgin.runtimeconfig.json
+C:\Users\F-LOW\OneDrive\Desktop\Project Bootcamp\Design Patterns\FacadeDesgin\FacadeDesgin\bin\Debug\net5.0\FacadeDesgin.runtimeconfig.dev.json
+C:\Users\F-LOW\OneDrive\Desktop\Project Bootcamp\Design Patterns\FacadeDesgin\FacadeDesgin\bin\Debug\net5.0\FacadeDesgin.dll
+C:\Users\F-LOW\OneDrive\Desktop\Project Bootcamp\Design Patterns\FacadeDesgin\FacadeDesgin\bin\Debug\net5.0\ref\FacadeDesgin.dll
+C:\Users\F-LOW\OneDrive\Desktop\Project Bootcamp\Design Patterns\FacadeDesgin\FacadeDesgin\bin\Debug\net5.0\FacadeDesgin.pdb
+C:\Users\F-LOW\OneDrive\Desktop\Project Bootcamp\Design Patterns\FacadeDesgin\FacadeDesgin\obj\Debug\net5.0\FacadeDesgin.csprojAssemblyReference.cache
+C:\Users\F-LOW\OneDrive\Desktop\Project Bootcamp\Design Patterns\FacadeDesgin\FacadeDesgin\obj\Debug\net5.0\FacadeDesgin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\F-LOW\OneDrive\Desktop\Project Bootcamp\Design Patterns\FacadeDesgin\FacadeDesgin\obj\Debug\net5.0\FacadeDesgin.AssemblyInfoInputs.cache
+C:\Users\F-LOW\OneDrive\Desktop\Project Bootcamp\Design Patterns\FacadeDesgin\FacadeDesgin\obj\Debug\net5.0\FacadeDesgin.AssemblyInfo.cs
+C:\Users\F-LOW\OneDrive\Desktop\Project Bootcamp\Design Patterns\FacadeDesgin\FacadeDesgin\obj\Debug\net5.0\FacadeDesgin.csproj.CoreCompileInputs.cache
+C:\Users\F-LOW\OneDrive\Desktop\Project Bootcamp\Design Patterns\FacadeDesgin\FacadeDesgin\obj\Debug\net5.0\FacadeDesgin.dll
+C:\Users\F-LOW\OneDrive\Desktop\Project Bootcamp\Design Patterns\FacadeDesgin\FacadeDesgin\obj\Debug\net5.0\ref\FacadeDesgin.dll
+C:\Users\F-LOW\OneDrive\Desktop\Project Bootcamp\Design Patterns\FacadeDesgin\FacadeDesgin\obj\Debug\net5.0\FacadeDesgin.pdb
+C:\Users\F-LOW\OneDrive\Desktop\Project Bootcamp\Design Patterns\FacadeDesgin\FacadeDesgin\obj\Debug\net5.0\FacadeDesgin.genruntimeconfig.cache
