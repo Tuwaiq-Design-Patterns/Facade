@@ -1,0 +1,16 @@
+C:\Users\lenovo1\RiderProjects\FacadeDrill\FacadeDrill\bin\Debug\net5.0\FacadeDrill.exe
+C:\Users\lenovo1\RiderProjects\FacadeDrill\FacadeDrill\bin\Debug\net5.0\FacadeDrill.deps.json
+C:\Users\lenovo1\RiderProjects\FacadeDrill\FacadeDrill\bin\Debug\net5.0\FacadeDrill.runtimeconfig.json
+C:\Users\lenovo1\RiderProjects\FacadeDrill\FacadeDrill\bin\Debug\net5.0\FacadeDrill.runtimeconfig.dev.json
+C:\Users\lenovo1\RiderProjects\FacadeDrill\FacadeDrill\bin\Debug\net5.0\FacadeDrill.dll
+C:\Users\lenovo1\RiderProjects\FacadeDrill\FacadeDrill\bin\Debug\net5.0\ref\FacadeDrill.dll
+C:\Users\lenovo1\RiderProjects\FacadeDrill\FacadeDrill\bin\Debug\net5.0\FacadeDrill.pdb
+C:\Users\lenovo1\RiderProjects\FacadeDrill\FacadeDrill\obj\Debug\net5.0\FacadeDrill.csprojAssemblyReference.cache
+C:\Users\lenovo1\RiderProjects\FacadeDrill\FacadeDrill\obj\Debug\net5.0\FacadeDrill.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo1\RiderProjects\FacadeDrill\FacadeDrill\obj\Debug\net5.0\FacadeDrill.AssemblyInfoInputs.cache
+C:\Users\lenovo1\RiderProjects\FacadeDrill\FacadeDrill\obj\Debug\net5.0\FacadeDrill.AssemblyInfo.cs
+C:\Users\lenovo1\RiderProjects\FacadeDrill\FacadeDrill\obj\Debug\net5.0\FacadeDrill.csproj.CoreCompileInputs.cache
+C:\Users\lenovo1\RiderProjects\FacadeDrill\FacadeDrill\obj\Debug\net5.0\FacadeDrill.dll
+C:\Users\lenovo1\RiderProjects\FacadeDrill\FacadeDrill\obj\Debug\net5.0\ref\FacadeDrill.dll
+C:\Users\lenovo1\RiderProjects\FacadeDrill\FacadeDrill\obj\Debug\net5.0\FacadeDrill.pdb
+C:\Users\lenovo1\RiderProjects\FacadeDrill\FacadeDrill\obj\Debug\net5.0\FacadeDrill.genruntimeconfig.cache
