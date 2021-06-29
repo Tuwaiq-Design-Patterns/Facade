@@ -1,0 +1,16 @@
+/home/z/tuwaiq/design_patterns/Facade/obj/Debug/net5.0/Facade.csproj.AssemblyReference.cache
+/home/z/tuwaiq/design_patterns/Facade/obj/Debug/net5.0/Facade.GeneratedMSBuildEditorConfig.editorconfig
+/home/z/tuwaiq/design_patterns/Facade/obj/Debug/net5.0/Facade.AssemblyInfoInputs.cache
+/home/z/tuwaiq/design_patterns/Facade/obj/Debug/net5.0/Facade.AssemblyInfo.cs
+/home/z/tuwaiq/design_patterns/Facade/obj/Debug/net5.0/Facade.csproj.CoreCompileInputs.cache
+/home/z/tuwaiq/design_patterns/Facade/bin/Debug/net5.0/Facade
+/home/z/tuwaiq/design_patterns/Facade/bin/Debug/net5.0/Facade.deps.json
+/home/z/tuwaiq/design_patterns/Facade/bin/Debug/net5.0/Facade.runtimeconfig.json
+/home/z/tuwaiq/design_patterns/Facade/bin/Debug/net5.0/Facade.runtimeconfig.dev.json
+/home/z/tuwaiq/design_patterns/Facade/bin/Debug/net5.0/Facade.dll
+/home/z/tuwaiq/design_patterns/Facade/bin/Debug/net5.0/ref/Facade.dll
+/home/z/tuwaiq/design_patterns/Facade/bin/Debug/net5.0/Facade.pdb
+/home/z/tuwaiq/design_patterns/Facade/obj/Debug/net5.0/Facade.dll
+/home/z/tuwaiq/design_patterns/Facade/obj/Debug/net5.0/ref/Facade.dll
+/home/z/tuwaiq/design_patterns/Facade/obj/Debug/net5.0/Facade.pdb
+/home/z/tuwaiq/design_patterns/Facade/obj/Debug/net5.0/Facade.genruntimeconfig.cache
