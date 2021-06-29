@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/rawabeebrahim/Projects/FacadePattren/FacadePattren/FacadePattren.csproj": {}
+    "/Users/rawabeebrahim/Projects/FacadePattren/Facade/FacadePattren/FacadePattren.csproj": {}
   },
   "projects": {
-    "/Users/rawabeebrahim/Projects/FacadePattren/FacadePattren/FacadePattren.csproj": {
+    "/Users/rawabeebrahim/Projects/FacadePattren/Facade/FacadePattren/FacadePattren.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/rawabeebrahim/Projects/FacadePattren/FacadePattren/FacadePattren.csproj",
+        "projectUniqueName": "/Users/rawabeebrahim/Projects/FacadePattren/Facade/FacadePattren/FacadePattren.csproj",
         "projectName": "FacadePattren",
-        "projectPath": "/Users/rawabeebrahim/Projects/FacadePattren/FacadePattren/FacadePattren.csproj",
+        "projectPath": "/Users/rawabeebrahim/Projects/FacadePattren/Facade/FacadePattren/FacadePattren.csproj",
         "packagesPath": "/Users/rawabeebrahim/.nuget/packages/",
-        "outputPath": "/Users/rawabeebrahim/Projects/FacadePattren/FacadePattren/obj/",
+        "outputPath": "/Users/rawabeebrahim/Projects/FacadePattren/Facade/FacadePattren/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/rawabeebrahim/.config/NuGet/NuGet.Config"
