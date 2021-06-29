@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{2AB595F1-2E72-4897-8B40-48CABB310AD5}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Facade-Design-Pattern/Program.cs">
+    <Files>
+      <File FileName="Facade-Design-Pattern/Program.cs" Line="77" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Facade-Design-Pattern" expanded="True">
+            <Node name="Facade-Design-Pattern" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Facade-Design-Pattern PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
