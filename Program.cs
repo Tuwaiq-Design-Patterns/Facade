@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace Facade
 {
@@ -15,7 +15,7 @@ namespace Facade
 
     public class Deposite
     {
-        public void subscribe()
+        public void addition()
         {
             Console.WriteLine(" Deposite Method");
         }
@@ -23,7 +23,7 @@ namespace Facade
 
     public class Withdraw
     {
-        public void addition()
+        public void subscribe()
         {
             Console.WriteLine(" Withdraw Method");
         }
@@ -46,14 +46,15 @@ namespace Facade
         public void Deposit()
         {
             Console.WriteLine("\n Deposit from bank account");
-            Deposites.subscribe();
+            Deposites.addition();
 
 
         }
         public void withdraw()
         {
             Console.WriteLine("\nwithdraw from bank account");
-            withdraws.addition();
+            withdraws.subscribe();
+          
           
         }
     }
