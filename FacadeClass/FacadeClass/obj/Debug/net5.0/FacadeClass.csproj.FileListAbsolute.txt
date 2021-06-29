@@ -1,0 +1,16 @@
+C:\Users\rhm30\source\repos\FacadeClass\FacadeClass\bin\Debug\net5.0\FacadeClass.exe
+C:\Users\rhm30\source\repos\FacadeClass\FacadeClass\bin\Debug\net5.0\FacadeClass.deps.json
+C:\Users\rhm30\source\repos\FacadeClass\FacadeClass\bin\Debug\net5.0\FacadeClass.runtimeconfig.json
+C:\Users\rhm30\source\repos\FacadeClass\FacadeClass\bin\Debug\net5.0\FacadeClass.runtimeconfig.dev.json
+C:\Users\rhm30\source\repos\FacadeClass\FacadeClass\bin\Debug\net5.0\FacadeClass.dll
+C:\Users\rhm30\source\repos\FacadeClass\FacadeClass\bin\Debug\net5.0\ref\FacadeClass.dll
+C:\Users\rhm30\source\repos\FacadeClass\FacadeClass\bin\Debug\net5.0\FacadeClass.pdb
+C:\Users\rhm30\source\repos\FacadeClass\FacadeClass\obj\Debug\net5.0\FacadeClass.csprojAssemblyReference.cache
+C:\Users\rhm30\source\repos\FacadeClass\FacadeClass\obj\Debug\net5.0\FacadeClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rhm30\source\repos\FacadeClass\FacadeClass\obj\Debug\net5.0\FacadeClass.AssemblyInfoInputs.cache
+C:\Users\rhm30\source\repos\FacadeClass\FacadeClass\obj\Debug\net5.0\FacadeClass.AssemblyInfo.cs
+C:\Users\rhm30\source\repos\FacadeClass\FacadeClass\obj\Debug\net5.0\FacadeClass.csproj.CoreCompileInputs.cache
+C:\Users\rhm30\source\repos\FacadeClass\FacadeClass\obj\Debug\net5.0\FacadeClass.dll
+C:\Users\rhm30\source\repos\FacadeClass\FacadeClass\obj\Debug\net5.0\ref\FacadeClass.dll
+C:\Users\rhm30\source\repos\FacadeClass\FacadeClass\obj\Debug\net5.0\FacadeClass.pdb
+C:\Users\rhm30\source\repos\FacadeClass\FacadeClass\obj\Debug\net5.0\FacadeClass.genruntimeconfig.cache
