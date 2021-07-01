@@ -1,0 +1,16 @@
+D:\Developing\Rider\projects\FacadService\FacadService\bin\Debug\net5.0\FacadService.exe
+D:\Developing\Rider\projects\FacadService\FacadService\bin\Debug\net5.0\FacadService.deps.json
+D:\Developing\Rider\projects\FacadService\FacadService\bin\Debug\net5.0\FacadService.runtimeconfig.json
+D:\Developing\Rider\projects\FacadService\FacadService\bin\Debug\net5.0\FacadService.runtimeconfig.dev.json
+D:\Developing\Rider\projects\FacadService\FacadService\bin\Debug\net5.0\FacadService.dll
+D:\Developing\Rider\projects\FacadService\FacadService\bin\Debug\net5.0\ref\FacadService.dll
+D:\Developing\Rider\projects\FacadService\FacadService\bin\Debug\net5.0\FacadService.pdb
+D:\Developing\Rider\projects\FacadService\FacadService\obj\Debug\net5.0\FacadService.csprojAssemblyReference.cache
+D:\Developing\Rider\projects\FacadService\FacadService\obj\Debug\net5.0\FacadService.GeneratedMSBuildEditorConfig.editorconfig
+D:\Developing\Rider\projects\FacadService\FacadService\obj\Debug\net5.0\FacadService.AssemblyInfoInputs.cache
+D:\Developing\Rider\projects\FacadService\FacadService\obj\Debug\net5.0\FacadService.AssemblyInfo.cs
+D:\Developing\Rider\projects\FacadService\FacadService\obj\Debug\net5.0\FacadService.csproj.CoreCompileInputs.cache
+D:\Developing\Rider\projects\FacadService\FacadService\obj\Debug\net5.0\FacadService.dll
+D:\Developing\Rider\projects\FacadService\FacadService\obj\Debug\net5.0\ref\FacadService.dll
+D:\Developing\Rider\projects\FacadService\FacadService\obj\Debug\net5.0\FacadService.pdb
+D:\Developing\Rider\projects\FacadService\FacadService\obj\Debug\net5.0\FacadService.genruntimeconfig.cache
